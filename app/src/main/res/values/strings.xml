@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+    <string name="enterTaskHint">Type in a new task here</string>
+    <string name="deleteTaskHint">Type in the index of the task to be removed</string>
+    <string name="add">add</string>
+    <string name="clear">clear</string>
+    <string name="delete">delete</string>
+    <string-array name="taskSpinnerItems">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+    <string name="noTaskWarning">You don\'t have any task to remove</string>
+    <string name="invalidIndexWarning">Wrong index number</string>
+    <string name="noIndexWarning">No index was given</string>
+</resources>
